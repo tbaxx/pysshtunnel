@@ -7,7 +7,7 @@ Dependencies:
 - [paramiko](https://pypi.python.org/pypi/paramiko) SSH2 protocol library
 
 
-Example Code:
+Example:
 ```
 from sshtunnel import SSHTunnel
 
